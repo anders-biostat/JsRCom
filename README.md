@@ -1,2 +1,5 @@
 # JsRCom
-An R package to exchange commands between R and JavaScript
+
+This package has been renamed to rjc.
+
+Use this repo instead: https://github.com/anders-biostat/rjc
